@@ -16,14 +16,15 @@
   <default revision="refs/heads/cm-14.1"
            remote="github"
            sync-c="true"
-           sync-j="16" />
+           sync-j="32" />
 
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="nougat" />
+	
   <remote  name="MRFiban"
            fetch="https://github.com/MRFiban"
-           revision="cm-14.1" />
+           revision="refs/heads/cm-14.1" />
 
   <!-- AOSP Projects -->
   <project path="build" name="android_build" remote="rr" >
