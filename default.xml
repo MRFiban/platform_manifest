@@ -13,10 +13,9 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-7.1.2_r36" />
 
-  <default revision="cm-14.1"
-           remote="github"
+  <default remote="github"
            sync-c="true"
-           sync-j="32" />
+           sync-j="1" />
 
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
