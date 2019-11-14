@@ -4,5 +4,3 @@
   <project name="MRFiban/android_device_asus_T00F" path="device/asus/T00F" remote="github" revision="cm-14.1" />
   <project name="MRFiban/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
 </manifest>
-
-https://github.com/MRFiban/android_device_asus_T00F
