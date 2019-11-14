@@ -13,7 +13,8 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-7.1.2_r36" />
 
-  <default remote="github"
+  <default revision="cm-14.1"
+	   remote="github"
            sync-c="true"
            sync-j="1" />
 
