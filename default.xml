@@ -23,7 +23,8 @@
 	   revision="nougat" />
 	
   <remote  name="MRFiban"
-           fetch="https://github.com/MRFiban" />
+           fetch="https://github.com/MRFiban"
+	   revision="cm-14.1" />
 
   <!-- AOSP Projects -->
   <project path="build" name="android_build" remote="rr" >
